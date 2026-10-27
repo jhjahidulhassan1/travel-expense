@@ -1,0 +1,6 @@
+# Real database credentials stay out of Git
+config.php
+error_log
+.DS_Store
+.idea/
+.vscode/
